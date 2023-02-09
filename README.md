@@ -6,11 +6,6 @@
   Desenvolvimento backend para a aplicação de pedidos em ambientes de pizzaria, lanchonetes e restaurantes
   Cadastro de usuarios, produtos, categorias, pedidos, items, autenticação de usuarios, etc
 
-## Layout mobile
-![mobile 1](https://github.com/devjoedson91/React-prime/tree/main/assets/layout01.jpeg)
-
-![mobile 2](https://github.com/devjoedson91/React-prime/tree/main/assets/layout02.jpeg)
-
 ## Tecnologias utilizadas
 
 - postgreSQL

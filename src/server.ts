@@ -6,7 +6,7 @@ import cors from 'cors'; // o cors serve para que qualquer ip consiga fazer requ
 import path from 'path'; // diretorios/caminhos
 const PORT = process.env.PORT || 3331;
 
-import { router } from './routes'
+import { router } from './routes';
 
 const app = express();
 

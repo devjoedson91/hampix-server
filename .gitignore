@@ -4,5 +4,4 @@ README.md
 # Keep environment variables out of version control
 
 .env
-*.jpg
 yarn.lock

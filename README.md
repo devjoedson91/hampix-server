@@ -9,12 +9,19 @@ Cadastro de usuarios, produtos, categorias, pedidos, items, autenticação de us
 
 ## Tecnologias utilizadas
 
-- postgreSQL
+- Mysql
 - Javascript
 - Typescript
 - node JS
 - Express
 - Prisma
+
+## Outras habilidades praticadas no projeto
+
+- Validações
+- Middlewares para controle de acesso de usuários
+- Criptografia de senhas com a biblioteca hash
+- Upload de imagens com o multer
 
 ## Autor
 

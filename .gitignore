@@ -1,5 +1,6 @@
 node_modules
 dist
+tmp
 README.md
 # Keep environment variables out of version control
 

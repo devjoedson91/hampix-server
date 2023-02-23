@@ -19,12 +19,13 @@ class CreateProductController {
 
             const {filename: banner} = req.file;
 
-            
+            const imageUrl = `http://192.168.0.21:3333/files/${banner}`;
+
             const product = await createProductService.execute({
                 name,
                 price,
                 description,
-                banner,
+                banner: imageUrl,
                 category_id
             });
     

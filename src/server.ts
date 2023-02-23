@@ -4,7 +4,7 @@ import express, { Request, Response, NextFunction } from 'express'; // NextFunct
 import 'express-async-errors';
 import cors from 'cors'; // o cors serve para que qualquer ip consiga fazer requisições nessa api
 import path from 'path'; // diretorios/caminhos
-const PORT = process.env.PORT || 3331;
+const PORT = process.env.PORT || 3333;
 
 import { router } from './routes';
 
